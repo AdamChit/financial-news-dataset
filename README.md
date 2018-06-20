@@ -1,5 +1,5 @@
-# Financial News Dataset from Bloomberg and Reuters
-450,341 news from Bloomberg and 109,110 news from Reuters
+# Financial News Dataset from Reuters
+109,110 news from Reuters
 
 ## Examples
 
@@ -22,31 +22,7 @@ hostage at its oil fields in the Amazon region of northern Peru
 [...] by the protests.
 ```
 
-### Bloomberg (450,341 news)
-
-```
--- Baoshan's 3rd-Quarter Profit Gains on Steel Demand
--- Janet Ong
--- 2006-10-27T13:21:05Z
--- http://www.bloomberg.com/news/2006-10-27/baoshan-s-3rd-quarter-profit-gains-on-steel-demand-update4-.html
-
-          
-          
-             Baoshan Iron & Steel Co., China's
-biggest steelmaker, said its third-quarter net income rose 42
-percent and reversed three straight quarters of declines as
-demand recovered.  
- Net income rose to 4.7 billion  yuan  ($595.7 million) in the
-quarter ended Sept. [...] will be effective from April 1, 2007.  
- To contact the reporter for this story:
-Helen Yuan in  Shanghai  at 
- hyuan@bloomberg.net   
- To contact the editor responsible for this story:
-Keith Gosman at 
- kgosman@bloomberg.net  
- ```
-
-## License
+## Usage in Research Literature
 
 This dataset was compiled and first used in [Ding et al. (2014)](http://emnlp2014.org/papers/pdf/EMNLP2014148.pdf).
 
